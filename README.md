@@ -3,7 +3,7 @@
 arx is a domain-specific language for describing software architecture and it's evolution. 
 It is focused on delivering extremely ergonomic user experience.
 
---
+---
 
 ## License
 
